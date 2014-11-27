@@ -6,7 +6,7 @@
     <name>Updater</name>
     <description />
     <packaging>jar</packaging>
-    <version>0.1</version>
+    <version>0.1-SNAPSHOT</version>
 
     <parent>
         <groupId>fr.norad.parent</groupId>
@@ -15,10 +15,10 @@
     </parent>
 
     <scm>
-        <connection>scm:git:git://github.com/n0rad/core.git</connection>
-        <developerConnection>scm:git:git@github.com:n0rad/core.git</developerConnection>
-        <url>https://github.com/n0rad/core</url>
-        <tag>updater-0.1</tag>
+        <connection>scm:git:git://github.com/n0rad/updater.git</connection>
+        <developerConnection>scm:git:git@github.com:n0rad/updater.git</developerConnection>
+        <url>https://github.com/n0rad/updater</url>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
